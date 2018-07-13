@@ -1,3 +1,11 @@
 class BankAccount
-  # code here
+  def initialize()
+  end
 end
+
+class Transfer
+  def initialize()
+  end
+end
+
+
